@@ -22,4 +22,4 @@ How To Use
 
 Licenses
 ==========
-All source code is licensed under the [Licenses](https://github.com/joyplus/joyplus-cms/raw/master/Licenses)
+All source code is licensed under the [Licenses](https://github.com/Alex-dandan/joyplus-tv/blob/master/LICENSE)
